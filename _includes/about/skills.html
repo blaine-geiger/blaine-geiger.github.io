@@ -1,0 +1,27 @@
+<div class="col-lg">
+  
+  <h2 class="mb-3">{{ include.title }}</h2>
+
+  <div class="row">
+    <div class="col-md-6 col-lg-auto">
+      <ul class="list-unstyled">
+        {% for skill in include.source %}
+          {% if forloop.index <= forloop.length | divided_by: 2 %}
+            <li>• {{ skill.name }}</li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="col-md-6 col-lg-auto">
+      <ul class="list-unstyled">
+        {% for skill in include.source %}
+          {% if forloop.index > forloop.length | divided_by: 2 %}
+            <li>• {{ skill.name }}</li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+</div>

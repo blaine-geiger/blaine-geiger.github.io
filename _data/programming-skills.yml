@@ -1,11 +1,15 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- name: Linux CLI
+  #percentage: 95
+  #color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: Network Traffic Analysis
+  #percentage: 80
+  #color:
 
-- name: Python
-  percentage: 70
-  color: secondary
+- name: Vulnerability Assessment
+  #percentage: 70
+  #color: secondary
+
+- name: SIEM Log, Query, Visualization 
+- name: Python, SQL, HTML
+- name: Complex Configurations
