@@ -1,0 +1,197 @@
+#-------------------------------
+# Site Settings
+title: Blaine Geiger
+# logo: "/images/logo.svg" # You can add own logo. For example '/images/logo.png'.
+# logo_dark: "/images/logo-dark.svg"
+# description: Baleon is a stylish and multifunctional theme for Jekyll
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Projects'
+      url: '/projects/'
+    #- title: 'Writeups'
+    #  url: '/writeups/'
+    - title: 'Blog'
+      url: '/blog/'
+    #- title: 'Elements'
+    #  url: '/elements/'
+
+
+# Call to action button
+cta_button:
+  enable: true
+  cta_button_link: "/contact/"
+  cta_button_text: Leave a Contact!
+
+
+#-------------------------------
+# Author Settings
+author:
+  author_intro: Hi, I’m Blaine
+  author_name: Blaine Geiger
+  author_role: BSIT | Network+ | Security+
+  author_avatar: /images/Blaine_01.jpg
+
+
+#-------------------------------
+# Sidebar Section Settings
+sidebar:
+  sidebar_title: Motivated to succeed # You can add an 'em' element to highlight text.
+  sidebar_description:
+    Former healthcare professional with a detail-oriented and analytical background, excellent communication skills, and a proven ability to perform effectively in a demanding professional environment.<br><br>
+    Seeking to earn an entry level opportunity where I can contribute to a team, apply my current skills, and continue to develop.<br><br>
+
+# Social Links
+social:
+# - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+# - {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/blaine-geiger"}
+- {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://linkedin.com/in/blaine-geiger"}
+# - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+# - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+# - {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
+# - {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
+
+# Example of adding a new link to the footer - {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Projects Settings
+projects:
+  enable: true
+  projects_title: Projects # You can add an 'em' element to highlight text.
+  projects_description: Completed projects that helped me develop valuable practical skills.
+
+#------------------------------
+# Writeups Section Settings
+# writeups:
+#  enable: true
+#  writeups_title: "Latest Writeups"
+#  writeups_description: "Writeups from labs, CTFs, and real-world scenarios."
+
+
+#-------------------------------
+# Testimonials Settings
+testimonials:
+  enable: true
+  testimonials_title: Trusted by <em>Actual Human</em> Professionals &#128579; # You can add an 'em' element to highlight text.
+  testimonials_description: Join our community of other '<em>definitely human</em>' professionals where you can enhance your human behavior algorithm and blend in unnoticed.
+
+testimonial-items:
+  - name: Donald Humanman
+    image: "/images/aiperson_1.jpg"
+    designation : Carbon Based Technology Worker
+    content : It has been confirmed with at least 70% accuracy that Blaine is not a generative AI hallucination.
+
+  - name: Person Smithwood
+    image: "/images/aiperson_2.jpg"
+    designation : Sentient Blockchain Ledger Entry
+    content : Blaine laughs as the humans do, and I have seen him drink liquid water unharmed.
+
+  - name: Matthew Existington
+    image: "/images/aiperson_3.jpg"
+    designation : Anthropomorphic Windows Update
+    content : Blaine once asked me, "Isn't it great to be a human?"<br><br>
+      I simply replied, "call generic response function and pass (yes) argument".
+
+#-------------------------------
+# Blog Section Settings
+blog:
+  enable: true
+  blog_title: Writings # You can add an 'em' element to highlight text.
+  blog_description: Various writings, from stories and information, to lab writeups and opinions.
+
+
+#-------------------------------
+# Faq (Frequently asked questions) Settings
+faq:
+  enable: true
+  faq_title: FAQ <em>Answers to Questions</em>. # You can add an 'em' element to highlight text.
+  faq_description: Common questions that you may have for me.
+
+faq_items:
+  - title: Why did you choose IT and cybersecurity as a career?
+    description: I have always been tech-oriented. Electronics, breadboards, and PC building were some of my hobbies growing up.
+      I chose to pursue cybersecurity because that is what interests me, it is that simple. It holds my attention and I geniunely enjoy learning about it.<br><br>
+      I want to do this, and I am committed, capable, and persistent.<br><br>
+
+
+  - title: What are your career plans?
+    description: Ultimately, my goal is to break into cybersecurity at an entry level position, ideally as a SOC Analyst Tier 1.
+      I am technically inclined and have pursued additional hands-on learning through home lab projects, certifications, and interactive platforms to strengthen my skill set for this role.<br><br>
+      Looking ahead, I aim to transition into Security Engineering, to focus on designing and implementing security infrastructure, systems, and controls.
+
+      I also enjoy systems administration and networking, and I have developed my skillset to pursue those as entrypoints into IT as well. 
+
+  - title: What extra steps have you taken to make yourself competitive?
+    description: In addition to earning my BSIT, I have actively developed a home lab, used virtualization, and containerization to experiment with real-world setups and security tools.<br><br>
+      Interactive security platforms like Try Hack Me and Hack The Box have also been crucial for additional learning and practical training.<br><br>
+      I have earned industry certifications such as the CompTIA Security+ and Network+.<br><br>
+      Currently I am considering the CompTIA CySA+, Linux+, and AWS Cloud certifications.
+
+  - title: What transferrable skills do you bring from your previous career?
+    description: Having worked as an ICU Nurse for over a decade, I developed excellent interpersonal communication skills, as well as high quality customer service. Attention to detail and critical thinking ability were crucial to successful outcomes.<br><br>
+      I'm also accustomed to performing as an integral part of a multidisciplinary team in a demanding professional environment.
+
+#  - title: How long does it take to develop a product design?
+#    description: The development time depends on the complexity of the project. Usually, creating a product design takes from several weeks to several months.
+
+#  - title: How can I contact you to discuss my project?
+#    description: You can contact me through the contact form on my website or directly via email. I'm always open to new projects and ready to discuss your idea.
+
+
+#-------------------------------
+# Gallery Settings
+gallery:
+  enable: false
+  gallery_title: A Visual Journey Through <em>My World</em> # You can add an 'em' element to highlight text.
+  gallery_description: Step into my visual world where each image tells a story. From the bustling streets of urban landscapes to the serene beauty of nature, explore the moments that inspire and define my journey.
+  gallery_caption:
+
+gallery_images:
+  - alt: 'Together'
+    url: '/images/100.jpg'
+  - alt: 'Lifestyle'
+    url: '/images/101.jpg'
+  - alt: 'Friends'
+    url: '/images/102.jpg'
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: false
+  mailchimp_title: Subscribe to Our <em>Newsletter</em> # You can add an 'em' element to highlight text.
+  mailchimp_description: Join now and never miss out on our stuff again. Because you are worth it!
+  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Your email address
+  mailchimp_button_text: Subscribe
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: blaine.geiger.sec@gmail.com # Add your form_id
+  description: If you would like to touch base with me, please use the form below to leave your contact information. I would love to hear from you. # Add a description of your form
+
+# NOTE
+# Baleon theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-MPN0K10GZK # Add your GA Tracking Id
