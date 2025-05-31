@@ -4,21 +4,18 @@ date: 2024-11-05 08:01:35 +0300
 #subtitle: Networking, Administration, Virtualization
 image: '/images/homelab.jpg'
 #video_embed: https://www.youtube.com/embed/phiMxtqlFIY
+github_url: https://github.com/blaine-geiger/homelab
 ---
 
-<!--
+<div style="text-align: center; margin: 1rem 0;">
+  <img src="/images/network.gif" alt="My Image" width="500" style="display: block; margin: 0 auto;">
+</div>
+
+---
+
 <a href="{{ page.github_url }}" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/View%20The%20Details%20on-GitHub-181717?style=for-the-badge&logo=github" alt="View the full project on GitHub">
 </a>
--->
-
----
-
-<p align="center">
-  <img src="/images/network.gif" alt="My Image" width="400">
-</p>
-
----
 
 This project reflects some of my first steps into establishing a home lab environment. It involves the design, planning, and development of a home lab, segmented from my everyday home network, using both physical hardware and virtualization. This required fundamental knowledge of networking, hardware and software configurations, firewall and system administration, and virtualization.
 

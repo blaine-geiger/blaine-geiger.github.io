@@ -4,7 +4,14 @@ date: 2024-05-04 08:01:35 +0300
 #subtitle: HTML, CSS, Docker, UI/UX 
 image: '/images/dashboard_services.png'
 #video_embed: https://www.youtube.com/embed/phiMxtqlFIY
+github_url: https://github.com/blaine-geiger/home-network-dashboard
 ---
+
+---
+
+<a href="{{ page.github_url }}" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/View%20The%20Details%20on-GitHub-181717?style=for-the-badge&logo=github" alt="View the full project on GitHub">
+</a>
 
 ####  **Goals**
 - Develop a centralized dashboard to ease navigation of network services web interfaces.

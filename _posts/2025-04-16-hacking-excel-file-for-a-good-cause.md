@@ -5,11 +5,11 @@ date: 2024-04-05 15:01:35 +0300
 image: '/images/excel.jpg'
 ---
 
-Shortly after I finished all my classes for my BSIT, (I still had do an internship, do not get me started, touchy subject) I was in a real life situation where my skills would be put to the test.
+A month after finishing my BSIT. I faced a real situation where my skills would be put to the test. 
 
-A family I knew closely had recently lost a familly member who had passed away. We will call them Suzy. Suzy was responsible, had plans in place, and took countless steps to make things easier for her family. This is not a discussion or criticism of anyone's security practices. 
+A family I knew closely had recently lost a familly member who had passed away. We will call them Jenny. She was responsible, had plans in place, and took countless steps to make things easier for her family. This is not a discussion or criticism of anyone's security practices. 
 
-However, Suzy did not use a password manager. All of her passwords were stored in an Excel spreadsheet. However, this Excel spreadsheet was password protected, and this password was not one of her commonly used passwords. After numerous attempts, the family was unable to brute-force the password by guessing.
+Jenny did not use a password manager. All of her passwords were stored in an Excel spreadsheet. However, this Excel spreadsheet was password protected, and this password was not one of her commonly used passwords. After numerous attempts, the family was unable to brute-force the password by guessing.
 
 They were at a loss and had no easily identifiable solution. <i>So here is what I did.</i>
 

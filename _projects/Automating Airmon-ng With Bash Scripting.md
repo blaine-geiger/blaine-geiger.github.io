@@ -4,7 +4,14 @@ date: 2024-05-04 08:01:35 +0300
 #subtitle: Scripting, Automation
 image: '/images/script_run.png'
 #video_embed: https://www.youtube.com/embed/phiMxtqlFIY
+github_url: https://github.com/blaine-geiger/automate-airmon
 ---
+
+---
+
+<a href="{{ page.github_url }}" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/View%20The%20Details%20on-GitHub-181717?style=for-the-badge&logo=github" alt="View the full project on GitHub">
+</a>
 
 ####  **Goals**
 - Simplify and automate the process of configuring a Wi-Fi adapter for monitor mode using `airmon-ng`.

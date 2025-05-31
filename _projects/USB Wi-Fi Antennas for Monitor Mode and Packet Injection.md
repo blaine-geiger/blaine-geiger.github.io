@@ -4,7 +4,14 @@ date: 2024-05-04 08:01:35 +0300
 #subtitle: Monitor Mode, Linux Drivers, 
 image: '/images/ACS_036.jpg'
 #video_embed: https://www.youtube.com/embed/phiMxtqlFIY
+github_url: https://github.com/blaine-geiger/alfa-036-acs
 ---
+
+---
+
+<a href="{{ page.github_url }}" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/View%20The%20Details%20on-GitHub-181717?style=for-the-badge&logo=github" alt="View the full project on GitHub">
+</a>
 
 ####  **Goals**
 - Set up the Alfa AWUS036ACS (Realtek RTL8811AU chipset) on Kali Linux with full support for monitor mode and packet injection.

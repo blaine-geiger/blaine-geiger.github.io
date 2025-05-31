@@ -44,10 +44,10 @@ author:
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: Motivated to succeed # You can add an 'em' element to highlight text.
+  sidebar_title: Motivated <em>to succeed</em> # You can add an 'em' element to highlight text.
   sidebar_description:
     Former healthcare professional with a detail-oriented and analytical background, excellent communication skills, and a proven ability to perform effectively in a demanding professional environment.<br><br>
-    Seeking to earn an entry level opportunity where I can contribute to a team, apply my current skills, and continue to develop.<br><br>
+    Committed to earning an opportunity, contributing to a team, and continuing to develop.<br><br>
 
 # Social Links
 social:
@@ -90,17 +90,17 @@ testimonial-items:
   - name: Donald Humanman
     image: "/images/aiperson_1.jpg"
     designation : Carbon Based Technology Worker
-    content : It has been confirmed with at least 70% accuracy that Blaine is not a generative AI hallucination.
+    content : It has been confirmed with at least 70% accuracy that <em>Blaine</em> is not a generative AI hallucination.
 
   - name: Person Smithwood
     image: "/images/aiperson_2.jpg"
     designation : Sentient Blockchain Ledger Entry
-    content : Blaine laughs as the humans do, and I have seen him drink liquid water unharmed.
+    content : <em>Blaine</em> laughs as the humans do, and I have seen him drink liquid water unharmed.
 
   - name: Matthew Existington
     image: "/images/aiperson_3.jpg"
     designation : Anthropomorphic Windows Update
-    content : Blaine once asked me, "Isn't it great to be a human?"<br><br>
+    content : <em>Blaine</em> once asked me, "Isn't it great to be a human?"<br><br>
       I simply replied, "call generic response function and pass (yes) argument".
 
 #-------------------------------
@@ -121,7 +121,7 @@ faq:
 faq_items:
   - title: Why did you choose IT and cybersecurity as a career?
     description: I have always been tech-oriented. Electronics, breadboards, and PC building were some of my hobbies growing up.
-      I chose to pursue cybersecurity because that is what interests me, it is that simple. It holds my attention and I geniunely enjoy learning about it.<br><br>
+      I chose to pursue cybersecurity because that is what interests me, it is that simple. It holds my attention and I genuinely enjoy learning about it.<br><br>
       I want to do this, and I am committed, capable, and persistent.<br><br>
 
 
@@ -130,7 +130,8 @@ faq_items:
       I am technically inclined and have pursued additional hands-on learning through home lab projects, certifications, and interactive platforms to strengthen my skill set for this role.<br><br>
       Looking ahead, I aim to transition into Security Engineering, to focus on designing and implementing security infrastructure, systems, and controls.
 
-      I also enjoy systems administration and networking, and I have developed my skillset to pursue those as entrypoints into IT as well. 
+      Realistically, I understand cybersecurity is not considered an entry level position, regardless of the role. With this in mind, I am also preparing for other entry points into the industry such as
+      Support, Helpdesk, Networking, and Systems Admininstration. 
 
   - title: What extra steps have you taken to make yourself competitive?
     description: In addition to earning my BSIT, I have actively developed a home lab, used virtualization, and containerization to experiment with real-world setups and security tools.<br><br>
@@ -180,7 +181,7 @@ mailchimp:
 #-------------------------------
 # Contact Settings
 contact:
-  email: blaine.geiger.sec@gmail.com # Add your form_id
+  email: movwarpj # Add your form_id
   description: If you would like to touch base with me, please use the form below to leave your contact information. I would love to hear from you. # Add a description of your form
 
 # NOTE

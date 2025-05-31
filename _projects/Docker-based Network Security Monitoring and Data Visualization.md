@@ -4,23 +4,20 @@ date: 2024-12-01 08:01:35 +0300
 #subtitle: Ubuntu, Docker, Prometheus, Grafana
 image: '/images/server.jpg'
 #video_embed: https://www.youtube.com/embed/phiMxtqlFIY
+github_url: https://github.com/blaine-geiger/Pi5-Ubuntu-Server
 ---
 
-<!--
+<div style="text-align: center; margin: 1rem 0;">
+  <img src="/images/server.gif" alt="My Image" width="500" style="display: block; margin: 0 auto;">
+  <div style="font-size: 0.9rem; margin-top: 0.25rem;">YouTube – Craft Computing</div>
+</div>
+
+---
+
 <a href="{{ page.github_url }}" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/View%20The%20Details%20on-GitHub-181717?style=for-the-badge&logo=github" alt="View the full project on GitHub">
 </a>
--->
 
----
-<p align="center">
-  <img src="/images/server.gif" alt="My Image" width="500">
-  <p align="center">
-    YouTube - Craft Computing
-  </p>  
-</p>
-
----
 ####  **Goals**
 Establish a centralized observability stack in a home lab environment:
 - Collect firewall logs from pfSense
